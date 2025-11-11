@@ -1,26 +1,24 @@
 <h2 align="center">hey 👋, i'm sybau</h2>
-<p align="center">developer</p>
+<p align="center">software engineer</p>
 
 ---
 
 ### 🌍 about me
-- passionate about creating clean & useful software  
-- always curious, always learning  
-- exploring **HTML, CSS, JavaScript, Go, Python, Java**  
+- passionate about building clean, scalable, and useful software  
+- always learning, always improving  
+- currently exploring **TypeScript, React, Next.js, Go, Rust, Python**  
 
 ---
 
-
 ### 📡 connect
-- discord: **goat.2115**  
+- discord: **goat.2115**
 
 ---
 
 ### ⚒️ stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,go,python,java" />
-  <img src="https://skillicons.dev/icons?i=git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,go,python,rust" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,neovim" />
 </p>
 
 ---
-
